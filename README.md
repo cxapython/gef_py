@@ -1,2 +1,2 @@
 # gef_py
-gef自用基本
+gef自用
